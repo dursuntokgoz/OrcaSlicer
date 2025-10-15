@@ -18,7 +18,7 @@
         "1.24"
     ],
     "filament_flow_ratio": [
-        "0.98"
+        "0.975"
     ],
     "filament_max_volumetric_speed": [
         "12"
@@ -30,7 +30,7 @@
         "6"
     ],
     "nozzle_temperature": [
-        "220"
+        "225"
     ],
     "nozzle_temperature_initial_layer": [
         "225"
@@ -39,19 +39,19 @@
         "200"
     ],
     "nozzle_temperature_range_high": [
-        "250"
+        "240"
     ],
     "filament_notes": [
-        "Bu filament ayarları Dursun TOKGÖZ tarafından oluşturulmuştur. Filamentin daha verimli çalışması için, slicerdaki kalibrasyon ayarlarının tek tek yapılması önemlidir. Kalibrasyon ayarları için, GlauTech youtube kanalından destek alabilirsiniz.\n\nBoş Makara Ağırlığı: 150gr"
+        "Bu filament ayarları Dursun TOKGÖZ tarafından oluşturulmuştur. Filamentin daha verimli çalışması için, slicerdaki kalibrasyon ayarlarının tek tek yapılması önemlidir. Kalibrasyon ayarları için, Elas3d Whatsapp kanalından destek alabilirsiniz.\n\nBoş Makara Ağırlığı: 250gr +- 5"
     ],
     "slow_down_min_speed": [
         "20"
     ],
     "complete_print_exhaust_fan_speed": [
-        "80"
+        "100"
     ],
     "during_print_exhaust_fan_speed": [
-        "60"
+        "100"
     ],
     "additional_cooling_fan_speed": [
         "100"
