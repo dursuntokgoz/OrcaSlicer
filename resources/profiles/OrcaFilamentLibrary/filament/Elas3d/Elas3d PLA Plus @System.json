@@ -1,0 +1,9 @@
+{
+    "type": "filament",
+    "name": "Elas3d PLA Plus @System",
+    "inherits": "Elas3d PLA Plus @base",
+    "from": "system",
+    "setting_id": "ELAS3D_01",
+    "instantiation": "true",
+    "compatible_printers": []
+}
